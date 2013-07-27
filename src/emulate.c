@@ -5,7 +5,6 @@
 
 #include "utils.h"
 
-// Will open the file, and using a loop will go through all of the instructions
 int main(int argc, char **argv) {
 	FILE *fp;
 	long size;
